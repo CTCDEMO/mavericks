@@ -10,27 +10,27 @@ GreenLexicon is a comprehensive platform designed to promote sustainability and 
 
 ## Key Features
 
-1. **[Energy Consumption Analysis (Data Analytics):](https://github.com/GunaPalanivel/energyanalyzer.git)**
+1. **[GITHUB REPOSITORY - Energy Consumption Analysis (Data Analytics):](https://github.com/GunaPalanivel/energyanalyzer.git)**
 
    - Provides users with a personalized dashboard to identify energy consumption patterns, pinpoint inefficiencies, and encourage energy-saving habits.
 
-2. **[Amazon Product Sustainability Score (NLP+LLM, BERT Model):](https://github.com/GunaPalanivel/sustainablescore.git)**
+2. **[GITHUB REPOSITORY - Amazon Product Sustainability Score (NLP+LLM, BERT Model):](https://github.com/GunaPalanivel/sustainablescore.git)**
 
    - An AI-driven scoring system that analyzes product descriptions to calculate a sustainability score, utilizing state-of-the-art NLP techniques and the BERT language model.
 
-3. **[Lexicon AI Using Gemini API:](https://github.com/GunaPalanivel/Lexicon-AI.git)**
+3. **[GITHUB REPOSITORY - Lexicon AI Using Gemini API:](https://github.com/GunaPalanivel/Lexicon-AI.git)**
 
    - Experience the simplicity of Lexicon AI, a minimalistic web interface designed to enhance your communication needs.
 
-4. **[Brand Sustainability Profiles (LLM, Web Scraping):](https://github.com/GunaPalanivel/sustainablebrands.git)**
+4. **[GITHUB REPOSITORY - Brand Sustainability Profiles (LLM, Web Scraping):](https://github.com/GunaPalanivel/sustainablebrands.git)**
 
    - Compiles data on corporate sustainability practices through advanced Large Language Model (LLM) capabilities and web scraping, offering concise brand sustainability profiles.
 
-5. **[Green Lexicon AI Chatbot:](https://github.com/GunaPalanivel/GreenLexicon-Chat-Bot.git)**
+5. **[GITHUB REPOSITORY - Green Lexicon AI Chatbot:](https://github.com/GunaPalanivel/GreenLexicon-Chat-Bot.git)**
 
    - A seamless experience as you explore answers to all your questions about sustainability and environmental consciousness
 
-6. **[Waste Classification Guide (Computer Vision, CNN, TensorflowJs):](https://github.com/GunaPalanivel/gitpod.git)**
+6. **[GITHUB REPOSITORY - Waste Classification Guide (Computer Vision, CNN, TensorflowJs):](https://github.com/GunaPalanivel/gitpod.git)**
    - A user-friendly guide that incorporates a custom-trained Convolutional Neural Network (CNN) to identify and sort waste, promoting correct disposal procedures and environmental conservation.
 
 ## Tech Stack
